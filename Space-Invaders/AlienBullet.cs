@@ -1,0 +1,4 @@
+public class AlienBullet : MonoBehaviour
+{
+    // ...
+  }
